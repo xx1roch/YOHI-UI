@@ -1,0 +1,10 @@
+{
+  "logo": {
+    "main": "logo/yohi-logo-main.png",
+    "png_512": "logo/yohi-logo-512.png",
+    "png_128": "logo/yohi-logo-128.png"
+  },
+  "icons": {
+    "tab_main": "icons/tab-main-48.png"
+  }
+}
